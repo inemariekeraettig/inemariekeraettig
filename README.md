@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Ine and I initially created this repository for my MSc Business Analytics & Management course called 'Analyzing Digital Footprints'. 
+
+Nice to see you here! :smile:
+
 <!--
 **inemariekeraettig/inemariekeraettig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
